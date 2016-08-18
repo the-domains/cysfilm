@@ -2,24 +2,16 @@
 author:
   - avatar:
       src: >-
-        https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b6bc7e92b5a2b840a5a19598025ca2ffbcfd932.png
-      original: >-
-        https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2361fa2b7cb80ebaf8875287d5eebd3e/noop.png?input=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fchannels%2Fbrandchannels%2Fmicrosoft%2Fspotlight_cy.png
+        https://f.vimeocdn.com/images_v6/channels/brandchannels/microsoft/spotlight_cy.png
       width: 300
       height: 300
       colors:
-        - - 248
-          - 248
-          - 248
-        - - 0
-          - 0
-          - 0
-        - - 190
-          - 190
-          - 190
-        - - 99
-          - 99
-          - 99
+        - - 237
+          - 237
+          - 237
+        - - 113
+          - 113
+          - 113
         - - 40
           - 40
           - 40
@@ -74,12 +66,12 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/originals/lumia/101557016'
 title: 'Skateboarding Time Collapse: Shot with the Lumia 930 in Nokia Lumia'
-datePublished: '2016-08-18T23:44:36.407Z'
-dateModified: '2016-08-18T23:44:13.264Z'
+datePublished: '2016-08-18T23:51:11.966Z'
+dateModified: '2016-08-18T23:50:58.448Z'
 via: {}
+starred: false
 sourcePath: >-
   _posts/2016-08-18-skateboarding-time-collapse-shot-with-the-lumia-930-in-noki.md
-starred: false
 inFeed: true
 hasPage: false
 inNav: false
