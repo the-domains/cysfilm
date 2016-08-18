@@ -44,8 +44,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/13404671'
 title: INDENTURED
-datePublished: '2016-08-18T23:04:38.772Z'
-dateModified: '2016-08-18T23:04:13.401Z'
+datePublished: '2016-08-18T23:11:46.730Z'
+dateModified: '2016-08-18T23:11:26.619Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-18-indentured.md
