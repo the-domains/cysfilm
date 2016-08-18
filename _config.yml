@@ -1,0 +1,14 @@
+layout_spectrum: 0.09048865060321987
+typography_spectrum: 0.4748203316703439
+color:
+  brandStrength: 0.8084266807418317
+  lightness: 0.04965214058756828
+  saturation: 0.44977280776947737
+  rhythmicContrast: 0.3318996911402792
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: cysfilm
