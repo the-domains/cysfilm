@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[cysfilm]]></title>
+        <description><![CDATA[cysfilm]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Aug 2016 23:02:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bush League]]></title>
+            <description><![CDATA[<article><h1>Bush League</h1><p>72 minute documentary Bush League is a character driven ethnographic survey of a tiny village in Northern Malawi. Intimate dramas unfold in the lives of four villagers who are all members of the local soccer team. Chatwa, the team captain, is an ambitious farmer who's in deep with the local bank but torrential rains are destroying his crops.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/21e6c84b4b977e68b0b647c07143b8a9/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F288393411_1280x960.jpg"></article>]]></description>
+            <link>https://vimeo.com/40906780</link>
+            <guid isPermaLink="false">b940cf76-fcfa-4cc9-8402-17fd4fa96b2b</guid>
+            <pubDate>Thu, 18 Aug 2016 23:02:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
