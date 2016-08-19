@@ -1,14 +1,7 @@
 ---
-datePublished: '2016-08-19T00:35:03.681Z'
-isBasedOnUrl: 'https://vimeo.com/13404671'
-author:
-  - name: Cy Kuckenbaker
-    url: 'https://vimeo.com/cysfilm'
-    avatar: {}
-via: {}
+id: d2b47811-1798-421b-a164-2ad2a301433a
 metadata:
-  datePublished: '2016-08-18T23:04:38.772Z'
-  sourcePath: _posts/2016-08-18-indentured.md
+  datePublished: '2016-08-18T22:37:04.283Z'
   isBasedOnUrl: 'https://vimeo.com/13404671'
   keywords: []
   related: []
@@ -18,7 +11,7 @@ metadata:
       avatar: {}
   via: {}
   '@context': 'http://schema.org'
-  dateModified: '2016-08-18T23:04:38.772Z'
+  dateModified: '2016-08-18T22:37:04.283Z'
   title: INDENTURED
   '@type': VideoObject
   app_links:
@@ -59,20 +52,13 @@ metadata:
     side the U.S. government's guidelines to define human trafficking, which
     suggest that large-scale labor abuses are happening inside U.S. bases in
     Iraq.
-dateModified: '2016-08-19T00:35:03.394Z'
-title: INDENTURED
-id: 42debac5-7113-4f1b-a14d-29c8b32c74e3
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-description: >-
-  10 min Indentured investigates the living conditions of South Asian laborers
-  working on U.S. military bases in Iraq. Testimonials are presented along side
-  the U.S. government's guidelines to define human trafficking, which suggest
-  that large-scale labor abuses are happening inside U.S. bases in Iraq.
+  sourcePath: _posts/2016-08-18-indentured.md
+dateModified: '2016-08-18T22:38:56.205Z'
 starred: false
+title: ''
+datePublished: '2016-08-19T00:57:26.846Z'
+author: []
+isBasedOnUrl: 'https://vimeo.com/13404671'
 sourcePath: _posts/2016-08-18-indentured.md
 inFeed: true
 hasPage: false
