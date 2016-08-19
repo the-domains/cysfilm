@@ -4,7 +4,7 @@
         <description><![CDATA[cysfilm]]></description>
         <link>https://thegrid.ai/cysfilm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 00:35:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 00:35:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cysfilm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[20 Minutes of Kite Flying Time Collapsed: San Diego Study #6]]></title>
@@ -19,13 +19,6 @@
             <link>https://youtu.be/iioPicXsAFg</link>
             <guid isPermaLink="false">49f84267-c4ae-48da-b522-59d9f27a1dd6</guid>
             <pubDate>Fri, 19 Aug 2016 00:09:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Skateboarding Time Collapse shot with the Lumia 930: Behind the Scenes in Nokia Lumia]]></title>
-            <description><![CDATA[<article><h1>Skateboarding Time Collapse shot with the Lumia 930: Behind the Scenes in Nokia Lumia</h1><p>A behind-the-scenes look at the process used to create a skateboarding time-collapse video of professional skater Cory Juneau. Credits: Directed by: Cy Kuckenbaker Written...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/28ac1454b03a0d00b18450fea14f6141/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F486024413_1280x720.jpg"></article>]]></description>
-            <link>https://vimeo.com/originals/lumia/101559698</link>
-            <guid isPermaLink="false">09bc36c6-a765-4aca-9e51-b07419c4d8e1</guid>
-            <pubDate>Fri, 19 Aug 2016 00:09:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[One Hour of San Diego Surfing Time Collapsed: San Diego Study #4]]></title>
@@ -75,6 +68,13 @@
             <link>https://vimeo.com/13404671</link>
             <guid isPermaLink="false">42debac5-7113-4f1b-a14d-29c8b32c74e3</guid>
             <pubDate>Fri, 19 Aug 2016 00:35:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Skateboarding Time Collapse shot with the Lumia 930: Behind the Scenes in Nokia Lumia]]></title>
+            <description><![CDATA[<article><h1>Skateboarding Time Collapse shot with the Lumia 930: Behind the Scenes in Nokia Lumia</h1><p>A behind-the-scenes look at the process used to create a skateboarding time-collapse video of professional skater Cory Juneau. Credits: Directed by: Cy Kuckenbaker Written...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/28ac1454b03a0d00b18450fea14f6141/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F486024413_1280x720.jpg"></article>]]></description>
+            <link>https://vimeo.com/originals/lumia/101559698</link>
+            <guid isPermaLink="false">09bc36c6-a765-4aca-9e51-b07419c4d8e1</guid>
+            <pubDate>Fri, 19 Aug 2016 00:35:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
