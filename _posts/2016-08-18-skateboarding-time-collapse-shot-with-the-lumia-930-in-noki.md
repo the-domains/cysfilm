@@ -1,8 +1,52 @@
 ---
-id: 5dae14d0-c1df-4d2b-84cd-b1462063a896
+datePublished: '2016-08-19T00:43:06.425Z'
+sourcePath: >-
+  _posts/2016-08-18-skateboarding-time-collapse-shot-with-the-lumia-930-in-noki.md
+isBasedOnUrl: 'https://vimeo.com/originals/lumia/101557016'
+author:
+  - avatar:
+      src: >-
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b6bc7e92b5a2b840a5a19598025ca2ffbcfd932.png
+      original: >-
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b6bc7e92b5a2b840a5a19598025ca2ffbcfd932.png
+      width: 300
+      height: 300
+      colors:
+        - - 248
+          - 248
+          - 248
+        - - 0
+          - 0
+          - 0
+        - - 190
+          - 190
+          - 190
+        - - 99
+          - 99
+          - 99
+        - - 40
+          - 40
+          - 40
+via: {}
 metadata:
   id: 5dae14d0-c1df-4d2b-84cd-b1462063a896
   metadata:
+    datePublished: '2016-08-18T23:51:11.966Z'
+    sourcePath: >-
+      _posts/2016-08-18-skateboarding-time-collapse-shot-with-the-lumia-930-in-noki.md
+    isBasedOnUrl: 'https://vimeo.com/originals/lumia/101557016'
+    keywords:
+      - lumia
+      - kuckenbaker
+      - videos
+      - '930'
+      - skater
+      - collapses
+      - masking
+      - vimeo
+      - cory
+      - thanks
+    related: []
     author:
       - avatar:
           src: >-
@@ -27,28 +71,10 @@ metadata:
             - - 40
               - 40
               - 40
-    related: []
-    publisher:
-      url: 'https://vimeo.com'
-      name: Vimeo
-      favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-      domain: vimeo.com
-    keywords:
-      - lumia
-      - kuckenbaker
-      - videos
-      - '930'
-      - skater
-      - collapses
-      - masking
-      - vimeo
-      - cory
-      - thanks
-    description: >-
-      A time collapse video created with documentary footage of professional
-      pool skater Cory Juneau captured with the Lumia 930. This video combines
-      more than 60 takes...
-    inLanguage: en
+    via: {}
+    '@context': 'http://schema.org'
+    dateModified: '2016-08-18T23:51:11.966Z'
+    title: 'Skateboarding Time Collapse: Shot with the Lumia 930 in Nokia Lumia'
     '@type': VideoObject
     app_links:
       - url: 'vimeo://app.vimeo.com/videos/101557016'
@@ -77,55 +103,29 @@ metadata:
         type: googleplay
         name: Vimeo
         id: com.vimeo.android.videoapp
-    '@context': 'http://schema.org'
-    isBasedOnUrl: 'https://vimeo.com/originals/lumia/101557016'
-    title: 'Skateboarding Time Collapse: Shot with the Lumia 930 in Nokia Lumia'
-    datePublished: '2016-08-18T23:51:11.966Z'
-    dateModified: '2016-08-18T23:51:11.966Z'
-    via: {}
-    sourcePath: >-
-      _posts/2016-08-18-skateboarding-time-collapse-shot-with-the-lumia-930-in-noki.md
+    publisher:
+      url: 'https://vimeo.com'
+      name: Vimeo
+      favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+      domain: vimeo.com
+    description: >-
+      A time collapse video created with documentary footage of professional
+      pool skater Cory Juneau captured with the Lumia 930. This video combines
+      more than 60 takes...
+    inLanguage: en
   dateModified: '2016-08-19T00:17:10.634Z'
-dateModified: '2016-08-19T00:18:40.299Z'
+dateModified: '2016-08-19T00:43:05.735Z'
 title: 'Skateboarding Time Collapse: Shot with the Lumia 930 in Nokia Lumia'
-datePublished: '2016-08-19T00:40:37.477Z'
-author:
-  - avatar:
-      src: >-
-        https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b6bc7e92b5a2b840a5a19598025ca2ffbcfd932.png
-      original: >-
-        https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2361fa2b7cb80ebaf8875287d5eebd3e/noop.png?input=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fchannels%2Fbrandchannels%2Fmicrosoft%2Fspotlight_cy.png
-      width: 300
-      height: 300
-      colors:
-        - - 248
-          - 248
-          - 248
-        - - 0
-          - 0
-          - 0
-        - - 190
-          - 190
-          - 190
-        - - 99
-          - 99
-          - 99
-        - - 40
-          - 40
-          - 40
-isBasedOnUrl: 'https://vimeo.com/originals/lumia/101557016'
-sourcePath: >-
-  _posts/2016-08-18-skateboarding-time-collapse-shot-with-the-lumia-930-in-noki.md
-description: >-
-  A time collapse video created with documentary footage of professional pool
-  skater Cory Juneau captured with the Lumia 930. This video combines more than
-  60 takes...
+id: 5dae14d0-c1df-4d2b-84cd-b1462063a896
 publisher:
   url: 'https://vimeo.com'
   name: Vimeo
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
-via: {}
+description: >-
+  A time collapse video created with documentary footage of professional pool
+  skater Cory Juneau captured with the Lumia 930. This video combines more than
+  60 takes...
 starred: false
 inFeed: true
 hasPage: false
