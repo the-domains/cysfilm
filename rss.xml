@@ -4,8 +4,15 @@
         <description><![CDATA[cysfilm]]></description>
         <link>https://thegrid.ai/cysfilm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 00:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 00:10:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cysfilm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Special Effects Reveal Everyday Patterns | Cy Kuckenbaker's San Diego Studies]]></title>
+            <description><![CDATA[<article><h1>Special Effects Reveal Everyday Patterns | Cy Kuckenbaker's San Diego Studies</h1><p>Filmmaker Cy Kuckenbaker's San Diego Studies, are short films designed to visualize data through internet documentary. By creating short composites of hours of footage, he is able to reveal the unobservable patterns of everyday San Diego.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5c4e80c584555b2c4334847678fdcdac/croprotate.jpg?cropheight=288&cropwidth=480&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FiioPicXsAFg%2Fhqdefault.jpg&x=0&y=33"></article>]]></description>
+            <link>https://youtu.be/iioPicXsAFg</link>
+            <guid isPermaLink="false">49f84267-c4ae-48da-b522-59d9f27a1dd6</guid>
+            <pubDate>Fri, 19 Aug 2016 00:09:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Skateboarding Time Collapse shot with the Lumia 930: Behind the Scenes in Nokia Lumia]]></title>
             <description><![CDATA[<article><h1>Skateboarding Time Collapse shot with the Lumia 930: Behind the Scenes in Nokia Lumia</h1><p>A behind-the-scenes look at the process used to create a skateboarding time-collapse video of professional skater Cory Juneau. Credits: Directed by: Cy Kuckenbaker Written...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/28ac1454b03a0d00b18450fea14f6141/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F486024413_1280x720.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/13404671</link>
             <guid isPermaLink="false">42debac5-7113-4f1b-a14d-29c8b32c74e3</guid>
             <pubDate>Thu, 18 Aug 2016 23:04:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bush League]]></title>
-            <description><![CDATA[<article><h1>Bush League</h1><p>72 minute documentary Bush League is a character driven ethnographic survey of a tiny village in Northern Malawi. Intimate dramas unfold in the lives of four villagers who are all members of the local soccer team. Chatwa, the team captain, is an ambitious farmer who's in deep with the local bank but torrential rains are destroying his crops.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/21e6c84b4b977e68b0b647c07143b8a9/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F288393411_1280x960.jpg"></article>]]></description>
-            <link>https://vimeo.com/40906780</link>
-            <guid isPermaLink="false">55e44284-dfe6-4559-8fb9-2cf6e8769cd8</guid>
-            <pubDate>Thu, 18 Aug 2016 23:28:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
