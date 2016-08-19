@@ -16,7 +16,7 @@ collections:
 typography_spectrum: 0.4748203316703439
 color:
   brandStrength: 0.8084266807418317
-  lightness: 0.7085106
+  lightness: 1
   saturation: 0.4497728
   rhythmicContrast: 0.3318997
   brandColors:
