@@ -85,17 +85,17 @@ metadata:
     time-collapse video of professional skater Cory Juneau. Credits: Directed
     by: Cy Kuckenbaker Written...
   inLanguage: en
-dateModified: '2016-08-19T00:35:54.694Z'
+dateModified: '2016-08-22T04:36:01.093Z'
 title: >-
   Skateboarding Time Collapse shot with the Lumia 930: Behind the Scenes in
   Nokia Lumia
-datePublished: '2016-08-19T00:35:55.477Z'
+datePublished: '2016-08-22T04:36:01.514Z'
 author:
   - avatar:
       src: >-
         https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b6bc7e92b5a2b840a5a19598025ca2ffbcfd932.png
       original: >-
-        https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2361fa2b7cb80ebaf8875287d5eebd3e/noop.png?input=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fchannels%2Fbrandchannels%2Fmicrosoft%2Fspotlight_cy.png
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b6bc7e92b5a2b840a5a19598025ca2ffbcfd932.png
       width: 300
       height: 300
       colors:
@@ -114,7 +114,6 @@ author:
         - - 40
           - 40
           - 40
-isBasedOnUrl: 'https://vimeo.com/originals/lumia/101559698'
 description: >-
   A behind-the-scenes look at the process used to create a skateboarding
   time-collapse video of professional skater Cory Juneau. Credits: Directed by:
@@ -125,12 +124,11 @@ publisher:
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-19-skateboarding-time-collapse-shot-with-the-lumia-930-behind.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: skateboarding-time-collapse-shot-with-the-lumia-930-behind/index.html
 _type: MediaObject
 
 ---
