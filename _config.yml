@@ -1,7 +1,7 @@
 name: cysfilm
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.4748203316703439
+layout_spectrum: 0.67138
+typography_spectrum: 0
 navigation:
   - name: Blog
     id: 09bc36c6-a765-4aca-9e51-b07419c4d8e1
@@ -38,7 +38,7 @@ color:
     - '#E64C4E'
     - '#EEA7A5'
     - '#6D6D6D'
-  brandStrength: 0.8170213
+  brandStrength: 0
   lightness: 0.7957447
   saturation: 0.4497728
   rhythmicContrast: 0.3318997
