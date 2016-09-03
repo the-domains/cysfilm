@@ -1,17 +1,7 @@
-typography_spectrum: 0.4748203316703439
-color:
-  brandStrength: 0.8170213
-  saturation: 0.4497728
-  brandColors:
-    - '#F2F2F2'
-    - '#00EDED'
-    - '#E64C4E'
-    - '#EEA7A5'
-    - '#6D6D6D'
-  lightness: 0.7957447
-  rhythmicContrast: 0.3318997
-layout_spectrum: 0.8404256
 name: cysfilm
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.4748203316703439
 navigation:
   - name: Blog
     id: 09bc36c6-a765-4aca-9e51-b07419c4d8e1
@@ -29,3 +19,27 @@ collections:
     permalink:
       path: '/:title/'
 title: cysfilm
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F2F2F2'
+    - '#00EDED'
+    - '#E64C4E'
+    - '#EEA7A5'
+    - '#6D6D6D'
+  brandStrength: 0.8170213
+  lightness: 0.7957447
+  saturation: 0.4497728
+  rhythmicContrast: 0.3318997
+purpose: []
