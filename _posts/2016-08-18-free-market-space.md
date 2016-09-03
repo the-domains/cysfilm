@@ -9,23 +9,23 @@ description: >-
   The moon gets an upgrade when the entire solar system is turned into a free
   market zone. This is an homage to Travis Wilkerson's amazing short film Pluto
   Declaration: https://vimeo.com/33869794
-datePublished: '2016-08-31T18:27:43.699Z'
-dateModified: '2016-08-31T18:23:51.456Z'
+datePublished: '2016-08-31T18:28:20.668Z'
+dateModified: '2016-08-31T18:27:52.564Z'
 id: 9a52cb33-acf5-4f02-b6e5-cc86df303771
 title: Free Market Space
 author:
   - name: Cy Kuckenbaker
     url: 'https://vimeo.com/cysfilm'
     avatar: {}
+via: {}
+sourcePath: _posts/2016-08-18-free-market-space.md
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-via: {}
 starred: false
-sourcePath: _posts/2016-08-18-free-market-space.md
 _type: MediaObject
 
 ---
